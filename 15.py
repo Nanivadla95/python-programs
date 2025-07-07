@@ -6,9 +6,5 @@ match x:
             print("case is 4")
 
 
-     case _ if x!=90:
-        Print(x, "is not 90")
-     case _ if x!= 80:
-         print(x," is not 80")
      case _:
          print (x)
